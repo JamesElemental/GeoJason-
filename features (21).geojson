@@ -1,0 +1,380 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Estates 3",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.576261,
+          52.278754
+        ],
+        "type": "Point"
+      },
+      "id": "1a47e8cbccf26e66433c3033a4f751f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Preparatory School",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.576739,
+          52.278081
+        ],
+        "type": "Point"
+      },
+      "id": "1b2fb044745c2ad67b693235059d99cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Mystery 2",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.575287,
+          52.27826
+        ],
+        "type": "Point"
+      },
+      "id": "3f794e28617f10f059bb7291880b6251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Estates 5",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.57602,
+          52.27872
+        ],
+        "type": "Point"
+      },
+      "id": "4263ffd773f3541ed91897c9e55afdc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Estates 4",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.57604,
+          52.278655
+        ],
+        "type": "Point"
+      },
+      "id": "4bd2dac514db7aa20c3d43ad64a5bfee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Chapel",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.573226,
+          52.279494
+        ],
+        "type": "Point"
+      },
+      "id": "4e40b29af11e4ec946979fbd7c322a78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "St Nicks",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.575981,
+          52.277613
+        ],
+        "type": "Point"
+      },
+      "id": "520415f1701e53c18990e171e37575a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Sixth Form",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.574419,
+          52.27844
+        ],
+        "type": "Point"
+      },
+      "id": "55e283d3e2e6ce4c89421ef09a805b5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Mystery Building 3",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.573795,
+          52.278505
+        ],
+        "type": "Point"
+      },
+      "id": "5979de0b4c73ff482697b31a2859cad8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Warwick Main School",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.573841,
+          52.27926
+        ],
+        "type": "Point"
+      },
+      "id": "60905ac09bcede3e15c21cbe5d0ddd9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Junior School",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.572082,
+          52.279779
+        ],
+        "type": "Point"
+      },
+      "id": "63a461df5f1a21c7b97a66460c3dcd6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "King's High School",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.574366,
+          52.277562
+        ],
+        "type": "Point"
+      },
+      "id": "64c6a31e1711e75ac57f7d5f1315f1c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Estates 1",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.576421,
+          52.278652
+        ],
+        "type": "Point"
+      },
+      "id": "7181d6e205a6ba312a1b2f6d48ee2677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Macefield",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.57482,
+          52.27835
+        ],
+        "type": "Point"
+      },
+      "id": "851b8d32e98c0247141896837b222731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Nursery",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.577587,
+          52.27881
+        ],
+        "type": "Point"
+      },
+      "id": "8577417620247ec1bd179e6ae00a2939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Estates 2",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.576255,
+          52.278518
+        ],
+        "type": "Point"
+      },
+      "id": "a0a36ac8ee54bf9917cebea38a502103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Warwick Hall",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.57507,
+          52.278683
+        ],
+        "type": "Point"
+      },
+      "id": "ae450ba857c009aa5af6503ba91bb17d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Mystery Building 1",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.573803,
+          52.278091
+        ],
+        "type": "Point"
+      },
+      "id": "bb0396d19188979e318c1fd05fbe4363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Mystery 5 ",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.573055,
+          52.279353
+        ],
+        "type": "Point"
+      },
+      "id": "bb6741ed7e75546b898b7106e8611ee3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Swimming Pool",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.57169,
+          52.27928
+        ],
+        "type": "Point"
+      },
+      "id": "cf9dc8a7dd34f3fccc9f4085fc1deaf0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Music 2",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.572682,
+          52.279571
+        ],
+        "type": "Point"
+      },
+      "id": "d57ae4a4d3e1de7cc95edf43bdda24be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point": "Music",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.575887,
+          52.278263
+        ],
+        "type": "Point"
+      },
+      "id": "daf67342e05c1be1b49debc538336e68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Bridge House Theatre",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.575837,
+          52.278908
+        ],
+        "type": "Point"
+      },
+      "id": "e5290959aee1cd4aca8a919b8c48ee57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "Gibson",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.572589,
+          52.279355
+        ],
+        "type": "Point"
+      },
+      "id": "e63a5ae1f62ab9cd0aba2d184eceac3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Point Name": "DCT",
+        "Height": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -1.574107,
+          52.278747
+        ],
+        "type": "Point"
+      },
+      "id": "eedf500a55407f7fae11a7641184e0ac"
+    }
+  ],
+  "type": "FeatureCollection"
+}
